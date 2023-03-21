@@ -1,27 +1,16 @@
+//
+//  routes.swift
+//
+//
+//  Created by Einas Alturki on 27/08/1444 AH.
+////
+
+
 import Fluent
 import Vapor
 
 func routes(_ app: Application) throws {
-//    app.get { req async throws in
-//        try await req.view.render("index", ["title": "Hello Vapor!"])
-//    }
 
-//    app.post("Plants") { req -> EventLoopFuture<Plants> in
-//    let plant = try req.content.decode(Plants.self)
-//    return plant.create(on: req.db).map{ plant }
-//    }
-//
-//    app.get("Plants") { req in
-//    Plants.query(on: req.db).all()
-//    }
-    
-//    app.get("hello") { req async -> String in
-//        "Hello, world!"
-//    }
-
-    
-//    try app.register(collection: PlantsController())
-    
     let plantController = PlantController()
     
     // loclhost:8080/Plants  POST
