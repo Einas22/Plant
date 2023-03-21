@@ -24,6 +24,22 @@ final class PlantController{
         try await Plants.query(on: req.db).all()
     }
     
+    func indexIndoor (req: Request) async throws -> [Plants] {
+    let resources = try await Plants.query(on: req.db)
+    .filter(\.$category == "Indoor").all()
+    //print("resources (resources)")
+    return resources
+
+    }
+    
+    func indexOutdoor (req: Request) async throws -> [Plants] {
+    let resources = try await Plants.query(on: req.db)
+    .filter(\.$category == "Outdoor").all()
+    //print("resources (resources)")
+    return resources
+
+    }
+    
     func create(req:Request) throws -> EventLoopFuture<Plants> {
         let plant = try req.content.decode(Plants.self)
         return plant.create(on: req.db).map { plant }

@@ -31,6 +31,11 @@ func routes(_ app: Application) throws {
     // loclhost:8080/Plants  GET
     app.get("Plants", use: plantController.all)
     
+    app.get("Plants","Indoor", use: plantController.indexIndoor (req:))
+    
+    app.get("Plants","Outdoor", use: plantController.indexOutdoor(req:))
+    
+    
     
     // loclhost:8080/books/:id PUT
     app.put("Plants", use: plantController.update)
