@@ -14,3 +14,11 @@
 ## Database Shema : 
 
 <img width="502" alt="Table" src="https://user-images.githubusercontent.com/34896276/226823385-56913004-3b1a-490d-90e1-c2e8d1367752.png">
+
+## Tools Used : 
+* Swift
+* Xcode
+* Postgres
+* Postico 2
+* Postman
+
