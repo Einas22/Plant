@@ -47,12 +47,17 @@
 ### Delete plant info:
 <img width="1512" alt="Delete operation" src="https://user-images.githubusercontent.com/116795392/226830873-850a9365-c947-4594-8329-dd6513b43360.png">
 
+### Requst JSON Body Example:
+<img width="733" alt="Screenshot 1444-08-30 at 12 47 58 PM" src="https://user-images.githubusercontent.com/91431846/226865403-39c345e0-5ea3-422f-abce-a4cf31b2b7e8.png">
+
+### Link to the Heroku
+https://plants.herokuapp.com/Plants
 
 ## Team Member : 
 * Sumayah Alrowibaah
 * Einas Alturki 
 * Aljoharah Alnasser 
 
-
+# WWe hope that this API helps you , and we are open for any feedback to make it better
 
 
