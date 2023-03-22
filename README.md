@@ -13,8 +13,7 @@
 * update plant info
 
 ## Database Shema : 
-
-<img width="502" alt="Table" src="https://user-images.githubusercontent.com/34896276/226823385-56913004-3b1a-490d-90e1-c2e8d1367752.png">
+<img width="350" hieght="300" alt="Get all Plants" src="https://user-images.githubusercontent.com/116795392/226831570-37ccc242-2c27-49c4-9126-52dcc8e1e7b8.png">
 
 ## Tools Used : 
 * Swift
@@ -29,22 +28,24 @@
 * PostgreSQL
 
 ## Screen Shots For CRDU Operation :
-### Put plant info:
 
-### get allplant info:
+### Get All plant info:
+<img width="1512" alt="Get all Plants" src="https://user-images.githubusercontent.com/116795392/226830692-d36f5398-44ea-4605-b367-3b38bac23c68.png">
 
-### get indoor plant info:
+### Get Indoor plant info:
+<img width="1512" alt="Get Indoor operation" src="https://user-images.githubusercontent.com/116795392/226830706-b1c9821d-1f68-4f2a-966a-463fd8b6dc2c.png">
 
-### get outdoor plant info:
+### Get Outdoor plant info:
+<img width="1512" alt="Outdoor Operation" src="https://user-images.githubusercontent.com/116795392/226830720-56c6a488-b258-43bd-ac84-98af6d3a3d64.png">
+
+# Create Plant:
+##<img width="1512" alt="Post operation" src="https://user-images.githubusercontent.com/116795392/226830733-23285f3a-31b1-4cd0-82ff-1cea3281c9d3.png">
 
 ### Updata plant info:
+<img width="1512" alt="Put Operation" src="https://user-images.githubusercontent.com/116795392/226830827-6c406954-cd9e-4d93-8f71-ba57d76164de.png">
 
 ### Delete plant info:
-
-
-
-
-
+<img width="1512" alt="Delete operation" src="https://user-images.githubusercontent.com/116795392/226830873-850a9365-c947-4594-8329-dd6513b43360.png">
 
 
 ## Team Member : 
