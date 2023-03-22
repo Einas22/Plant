@@ -5,10 +5,11 @@
 
 
 ## Feature List : 
-* get all indoor plants
-* get all outdoor plants
+* get all plant info
+* get indoor plants info 
+* get outdoor plants info
 * Add a new plant
-* delete plant
+* delete plant info
 * update plant info
 
 ## Database Shema : 
