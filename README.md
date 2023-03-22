@@ -28,6 +28,22 @@
 * PostgreSQL
 
 ## Screen Shots For CRDU Operation :
+### Put plant info:
+
+### get allplant info:
+
+### get indoor plant info:
+
+### get outdoor plant info:
+
+### Updata plant info:
+
+### Delete plant info:
+
+
+
+
+
 
 
 ## Team Member : 
