@@ -22,3 +22,19 @@
 * Postico 2
 * Postman
 
+## Technologies Used: 
+* Vapor
+* fluent
+* PostgreSQL
+
+## Screen Shots For CRDU Operation :
+
+
+## Team Member : 
+* Sumayah Alrowibaah
+* Einas Alturki 
+* Aljoharah Alnasser 
+
+
+
+
